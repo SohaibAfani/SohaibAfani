@@ -1,5 +1,5 @@
 - 👋 Hello , I’m Sohaib Afaneh
-- 💻 Studied Computer & Communications Engineer @ Applied Science University
+- 💻 Studied Computer & Communications Engineering @ Applied Science University
 - 👀 I’m interested in Coding & Mobile Applications
 - 🌱 I’m currently learning  JS , Reactjs , React-Native , Nodejs
 
